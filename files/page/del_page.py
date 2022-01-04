@@ -7,3 +7,7 @@ def dels_Page(driver):
     driver.find_element_by_class_name("swal-button.swal-button--confirm.swal-button--danger").click()
     time.sleep(1)
     driver.find_element_by_class_name("swal-button.swal-button--confirm").click()
+
+
+
+#做了修改操作
